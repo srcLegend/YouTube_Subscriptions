@@ -3,8 +3,10 @@
 		<outline text="YouTube Subscriptions" title="YouTube Subscriptions">
 			<outline text="3Blue1Brown" title="3Blue1Brown" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYO_jab_esuFRV4b17AJtAw" />
 			<outline text="Adrian Riven" title="Adrian Riven" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKSpMAJYwvgrYZ_SrON96KA" />
+			<outline text="AlukardNY" title="AlukardNY" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCDfihBakDfHwT7lCwQMVKog" />
 			<outline text="Applied Science" title="Applied Science" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCivA7_KLKWo43tFcCkFvydw" />
 			<outline text="ATHLEAN-X™" title="ATHLEAN-X™" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCe0TLA0EsQbE-MjuHXevj2A" />
+			<outline text="AxeChris" title="AxeChris" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXiJjdcV8pexroWX7ycBY9Q" />
 			<outline text="Barış Özcan" title="Barış Özcan" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCv6jcPwFujuTIwFQ11jt1Yw" />
 			<outline text="Brian Douglas" title="Brian Douglas" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCq0imsn84ShAe9PBOFnoIrg" />
 			<outline text="Brian Jackson" title="Brian Jackson" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCJf1CN__UJ-8FJPKh2p3RFg" />
@@ -17,6 +19,7 @@
 			<outline text="Computerphile" title="Computerphile" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9-y-6csu5WGm29I7JiwpnA" />
 			<outline text="cpac" title="cpac" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCFZSV_So_OaXgXVzgu58tJQ" />
 			<outline text="Crunchyroll Collection" title="Crunchyroll Collection" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC6pGDc4bFGD1_36IKv3FnYg" />
+			<outline text="Cyberpunk 2077" title="Cyberpunk 2077" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4zyoIAzmdsgpDZQfO1-lSA" />
 			<outline text="der8auer" title="der8auer" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCYAg4bYdyqENxEyHUX7t1FA" />
 			<outline text="DIY Creators" title="DIY Creators" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UChKlSK39lLg8eZHIX0iVzLA" />
 			<outline text="DIY Perks" title="DIY Perks" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUQo7nzH1sXVpzL92VesANw" />
@@ -30,7 +33,7 @@
 			<outline text="Fix This Build That" title="Fix This Build That" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCHYSw4XKO_q1GaChw5pxa-w" />
 			<outline text="ForgottenProject" title="ForgottenProject" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkMuhqGQRIRZWDcP1TH7NYg" />
 			<outline text="FortNine" title="FortNine" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCNSMdQtn1SuFzCZjfK2C7dQ" />
-			<outline text="Gloomshot - FGC" title="Gloomshot - FGC" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCntQA1TdumlEWs_F-rYpX2Q" />
+			<outline text="Gloomshot - Fighting Games" title="Gloomshot - Fighting Games" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCntQA1TdumlEWs_F-rYpX2Q" />
 			<outline text="Gordon Ramsay" title="Gordon Ramsay" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCIEv3lZ_tNXHzL3ox-_uUGQ" />
 			<outline text="Gosu" title="Gosu" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCudNGAQXzpE1sMfoqPs67mQ" />
 			<outline text="HealthyGamerGG" title="HealthyGamerGG" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UClHVl2N3jPEbkNJVx-ItQIQ" />
@@ -38,6 +41,7 @@
 			<outline text="Irelia Carries U" title="Irelia Carries U" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC8sBHzUl_ba5U67jiUyFXCg" />
 			<outline text="IYI BILOS IYI" title="IYI BILOS IYI" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCwczMK3tVwwI5e0oG593l8A" />
 			<outline text="JayzTwoCents" title="JayzTwoCents" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCkWQ0gDrqOCarmUKmppD7GQ" />
+			<outline text="Katawina" title="Katawina" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCthYVPo7iWHIcipyL3lQrSQ" />
 			<outline text="KatEvolved" title="KatEvolved" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC4XryR0fHLOlwCO4KLvn-ow" />
 			<outline text="Katlife" title="Katlife" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCD55o2LYTynwAp5JomjsEow" />
 			<outline text="Kerbal Space Program" title="Kerbal Space Program" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC-ZlXbhKDI6m0IQGGSNvtaw" />
@@ -74,6 +78,7 @@
 			<outline text="RaptR" title="RaptR" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqyPbMQMNLq5EcEaJgfyJMQ" />
 			<outline text="Real Engineering" title="Real Engineering" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCR1IuLEqb6UEA_zQ81kwXfg" />
 			<outline text="Real Science" title="Real Science" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC176GAQozKKjhz62H8u9vQQ" />
+			<outline text="Redmercy" title="Redmercy" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUf53DHwoQw4SvETXZQ2Tmg" />
 			<outline text="Rhykker" title="Rhykker" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCRl31PWkfF0a3j3hiDRaCGA" />
 			<outline text="Saiyans" title="Saiyans" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC0cXZh7qyQKYT60dqIKmB-w" />
 			<outline text="Scardor" title="Scardor" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCQJmDq0tvGVUvySF1HbfS5Q" />
@@ -95,6 +100,7 @@
 			<outline text="The Organic Chemistry Tutor" title="The Organic Chemistry Tutor" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCEWpbFLzoYGPfuWUMFPSaoA" />
 			<outline text="The Science Asylum" title="The Science Asylum" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCXgNowiGxwwnLeQ7DXTwXPg" />
 			<outline text="The Slow Mo Guys" title="The Slow Mo Guys" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUK0HBIBWgM2c4vsPhkYY4w" />
+			<outline text="The Soul of Wind" title="The Soul of Wind" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCUZNK80DemBN3kyxusDLwrA" />
 			<outline text="The Thought Emporium" title="The Thought Emporium" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCV5vCi3jPJdURZwAOO_FNfQ" />
 			<outline text="TheBackyardScientist" title="TheBackyardScientist" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC06E4Y_-ybJgBUMtXx8uNNw" />
 			<outline text="Tom Scott" title="Tom Scott" type="rss" xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCBa659QWEk1AI4Tg--mrJ2A" />
